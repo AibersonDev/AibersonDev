@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hola a todos, soy Aiberson
 
-## Need help with any of my projects or just want to ask a question?
+#### Soy un desarrollador venezolano de 14 años. Me gusta el desarrollo de páginas webs y Bots de Discord. Siempre quiero aprender cosas nuevas y me encargo de eso 😉. Aquí hay hay un poco de información sobre mí.
 
 Contact me on my [Discord](https://discord.gg/MfZ2eETAD2) server!
 
